@@ -1,0 +1,73 @@
+.white{
+	color: white;
+}
+.bg_header_reg{
+	background-color: #feff24;
+}
+.header_font_size{
+	font-size: 2em;
+}
+.btn_reg_style{
+	border-radius: 0;
+	color: white;
+	background-color: #333333;
+	border-color: #333333;
+}
+.btn_reg_style:hover{
+	border-radius: 0;
+	color: white;
+	background-color: #6c6d45;
+	border-color: #6c6d45;
+}
+.fgt_pwd{
+	margin-bottom: 6px;
+	margin-top: 6px;
+}
+.right_side_bg{
+	background-color: #f4f4f4;
+}
+.border_btn{
+	border-radius: 10px;
+}
+.facebook_btn{
+	font-family: Helvetica;
+
+}
+.facebook_btn_text{
+	margin-top: 1vh;
+	color: white;
+	font-size: 2em;
+}
+.register{
+	font-size: 1.5em;
+	color: #052d50;
+}
+.enter_with{
+	color: #3e3e3e;
+}
+.size_gi{
+	font-size: 1.8em;
+}
+.no_border{
+	border-color: transparent;
+}
+.no_hover:hover{
+	background-color: transparent;
+	border-color: transparent;
+}
+.margin_right{
+	margin-top: -7px;
+}
+.margin_text_right{
+	margin-top: 10vh;
+}
+.modal_bg{
+	background-color: white;
+}
+.well{
+	border-radius: 20px;
+}
+.reg_btn{
+	border-radius: 10px;
+
+}
