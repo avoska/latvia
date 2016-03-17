@@ -1,4 +1,8 @@
 @font-face {
+    font-family: Proxima;
+    src: url(../fonts/proximanova-bold.otf);
+   }
+@font-face {
     font-family: Ubuntu;
     src: url(../fonts/Ubuntu-B.ttf);
    }
@@ -72,8 +76,16 @@ body{
 	background-color: white;
 }
 .reg_btn{
-	border-radius: 10px;
+	font-size: 0.8em;
+	font-family: Proxima;
+	background-color: #308d65;
+	border-radius: 15px;
+	color: white;
 
+}
+.open_btn_text{
+	margin-right: 0.5vw;
+	margin-left: 0.5vw;
 }
 .well{
 	border-color: transparent;
