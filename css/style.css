@@ -1,15 +1,28 @@
+@font-face {
+    font-family: Ubuntu;
+    src: url(../fonts/Ubuntu-B.ttf);
+   }
+body{
+	font-family: Helvetica;
+}
+.modal{
+	margin-top: 20vh;
+}
 .white{
 	color: white;
 }
+
 .bg_header_reg{
+	padding-top: 7px;
+	padding-bottom: 7px;
 	border-color: #ffcc00;
 	background-color: #ffcc00;
 }
 .header_font_size{
-	font-size: 2em;
+	font-size: 1.7em;
 }
 .btn_reg_style{
-	border-radius: 0;
+	border-radius: 2px;
 	color: white;
 	background-color: #333333;
 	border-color: #333333;
@@ -25,21 +38,13 @@
 	margin-top: 6px;
 }
 .right_side_bg{
-	background-color: #aeaea6;
-	border-color: #AEAEA6;
+	background-color: #f4f4f4;
+	border-color: #f4f4f4;
 }
 .border_btn{
 	border-radius: 10px;
 }
-.facebook_btn{
-	font-family: Helvetica;
 
-}
-.facebook_btn_text{
-	margin-top: 1vh;
-	color: white;
-	font-size: 2em;
-}
 .register{
 	font-size: 1.5em;
 	color: #052d50;
@@ -58,25 +63,24 @@
 	border-color: transparent;
 }
 .margin_right{
-	margin-top: -7px;
+	margin-top: -19px;
 }
 .margin_text_right{
-	margin-top: 10vh;
+	margin-top: 12vh;
 }
 .modal_bg{
 	background-color: white;
-}
-.well{
-	border-radius: 20px;
 }
 .reg_btn{
 	border-radius: 10px;
 
 }
 .well{
+	border-color: transparent;
+	border-radius: 2px;
 	min-width: 435px;
-	border-radius: 0px;
 	padding: 0;
+	background-color: white;
 }
 .margin_left_header{
 	padding-left: 0;
@@ -89,4 +93,11 @@
 
 .margin_top {
 	margin-top: 40vh;
+}
+.enter_btn_text{
+	margin-left: 1vw;
+	margin-right: 1vw;
+}
+.btn_fast_reg{
+	border-radius: 2px;
 }
